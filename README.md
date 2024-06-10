@@ -2,7 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             41 mins         ██████████████████▒░░░░░░   72.68 %
+GitIgnore file   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Gradle           5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Groovy           1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Kotlin           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
