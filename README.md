@@ -1,9 +1,6 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
