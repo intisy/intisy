@@ -2,10 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java     22 mins         █████████████▓░░░░░░░░░░░   54.93 %
-YAML     6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-Groovy   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Gradle   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
