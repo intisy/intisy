@@ -2,7 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java     1 min           ██████████████░░░░░░░░░░░   56.34 %
+Gradle   1 min           ███████████░░░░░░░░░░░░░░   43.66 %
 ```
 
 <!--END_SECTION:waka-->
