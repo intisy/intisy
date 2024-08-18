@@ -13,7 +13,7 @@ Gradle   1 min           ▒░░░░░░░░░░░░░░░░░�
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WildePizza&show_icons=true&theme=gotham" alt="WildePizza" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=intisy&show_icons=true&theme=gotham" alt="intisy" />
 
 
 
