@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              42 hrs 49 mins  ████████████████████▓░░░░   83.13 %
-Groovy            4 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Gradle            3 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Java Properties   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Properties        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Java              45 hrs 9 mins   ███████████████████████▓░   94.19 %
+Groovy            1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Gradle            52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Properties        14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
