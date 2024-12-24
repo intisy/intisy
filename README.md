@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       20 hrs 23 mins  █████████████████▓░░░░░░░   71.20 %
-Bash                       2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-JSON                       1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Java Properties            1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Mixin Json Configuration   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Java                       26 hrs 34 mins  ██████████████████▒░░░░░░   72.83 %
+Bash                       2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+JSON                       1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Java Properties            1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Gradle                     1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
