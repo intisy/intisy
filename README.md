@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   21 hrs 21 mins  ██████████████████████▒░░   89.79 %
-XML                    1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Groovy                 1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Gradle                 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Sqlite Database File   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Java                   20 hrs 21 mins  ████████████████████████▒   97.13 %
+Groovy                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Sqlite Database File   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Gradle                 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Shell Script           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
