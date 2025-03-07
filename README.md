@@ -14,8 +14,5 @@ GitIgnore file   6 mins          ░░░░░░░░░░░░░░░�
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=intisy&show_icons=true&theme=gotham" alt="intisy" />
-
-
-
-
+![Intisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=intisy&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intisy)](https://github.com/intisy)
