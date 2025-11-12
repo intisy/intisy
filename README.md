@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/ae41338c-1d5f-46c6-903a-d73c54cf5bcd.svg)](https://wakatime.com/@ae41338c-1d5f-46c6-903a-d73c54cf5bcd)
+
 📊 **this week i spent my time on:**
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=intisy)](https://github.com/intisy)
