@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/ae41338c-1d5f-46c6-903a-d73c54cf5bcd.svg)](https://wakatime.com/@ae41338c-1d5f-46c6-903a-d73c54cf5bcd)
+![views](https://komarev.com/ghpvc/?username=intisy)
 
 📊 **this year i spent my time on:**
 
